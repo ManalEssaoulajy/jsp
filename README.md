@@ -14,6 +14,9 @@ ajout des machine en introduisant leur references , marques et prix et annuler l
 
 ![image](https://github.com/ManalEssaoulajy/jsp/assets/147450276/ef465ceb-6afd-44a0-9723-1bcac623aa85)
 
+![image](https://github.com/ManalEssaoulajy/jsp/assets/147450276/19b5b8ac-b422-4f15-99c1-05d56f6130e9)
+
+
 ### 2eme etape
 
 afficher les diffentes machines avec la possibilite de les supprimer et les modifier 
